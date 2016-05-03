@@ -51,7 +51,9 @@ Yahoo! Finance module (free version) retrieves data which is 15 minutes older (p
 
 Failure Points:
 ---------------
-If internet connection is down or Yahoo! Finance server is down, there will be intermintent failures. I have tried level best to gracefully handle situation but again it is not 100% failure proof.
+If internet connection is down or Yahoo! Finance server is down, there will be intermintent failures. 
+
+I have tried level best to gracefully handle situation but again it is not 100% failure proof.
 
 Reference or Credits:
 ---------------------
