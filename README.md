@@ -1,5 +1,5 @@
 # PSP (Personal Stock Portfolio)
-Terminal Based UI Stock Portfolio
+As part of CSC-520 Python Programming course, PSP (Terminal Based UI Personal Stock Portfolio) was developed for final term project.
 
 About Personal Stock Portfolio:
 -------------------------------
