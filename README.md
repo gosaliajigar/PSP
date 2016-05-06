@@ -44,6 +44,27 @@ Installation Instructions:
 --------------------------
 	1. Python module for Yahoo! Finance (1.2.1) : https://pypi.python.org/pypi/yahoo-finance
 	2. From command prompt run command (pip install yahoo-finance)
+	------------------------
+	Sample installation logs
+	------------------------
+		$ python --version
+		Python 3.5.1
+		
+		$ pip install yahoo_finance
+		Collecting yahoo-finance
+		  Downloading yahoo-finance-1.2.1.zip
+		Collecting pytz (from yahoo-finance)
+		  Downloading pytz-2016.4-py2.py3-none-any.whl (480kB)
+		←[K    100% |################################| 483kB 874kB/s ta 0:00:01
+		Collecting simplejson (from yahoo-finance)
+		  Downloading simplejson-3.8.2.tar.gz (76kB)
+		←[K    100% |################################| 77kB 2.6MB/s
+		Installing collected packages: pytz, simplejson, yahoo-finance
+		  Running setup.py install for simplejson
+		  Running setup.py install for yahoo-finance
+		Successfully installed pytz-2016.4 simplejson-3.8.2 yahoo-finance-1.2.1
+		←[33mYou are using pip version 7.1.2, however version 8.1.1 is available.
+		You should consider upgrading via the 'python -m pip install --upgrade pip' command.←[0m
 
 Restrictions:
 -------------
