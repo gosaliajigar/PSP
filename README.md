@@ -68,7 +68,7 @@ Installation Instructions:
 
 Restrictions:
 -------------
-Yahoo! Finance module (free version) retrieves data which is 15 minutes older (paid version no-delay).
+Yahoo! Finance module (free version) retrieves data which is 15 minutes older (for instant data, use google apis).
 
 Failure Points:
 ---------------
