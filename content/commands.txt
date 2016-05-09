@@ -1,0 +1,20 @@
+Available commands are displayed at the footer of each page. Here is the list of all the commands and their meaning : 
+
+	a           = About Stock Portfolio Software
+	a [value]*  = Add Stock Symbol to your list
+	c           = Get list of all available commands
+	d [value]*  = Delete Stock Symbol from your list
+	e           = Exit current execution or Stock Portfolio Software
+	f           = Forgot Password
+	h           = Go to Home Main Menu or Log Out
+	l           = List all Stock Symbols loaded from given file
+	o	    = Log Out
+	q           = Quit current execution or Stock Portfolio Software
+	r [value]** = Refresh a specific or all Stock Symbols
+	s           = Sign In User
+	u           = Sign Up User
+	v [value]*  = View a specific Stock Symbol
+	x           = Exit current execution or Stock Portfolio Software
+
+WHERE	*  MEANS value is either Stock Symbol or sequence number in page/table.
+	** MEANS value is either Stock Symbol or sequence number in page/table and if value is missing then all the symbols will be refreshed

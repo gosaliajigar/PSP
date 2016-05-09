@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# PSP Project Specific files
+database/
+logs/
+symbols/
+
+

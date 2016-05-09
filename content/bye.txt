@@ -1,0 +1,8 @@
+Personal Stock Portfolio is a Terminal Based UI software that loads list of stock symbols and gives user capability to ...
+	1. View Stock Symbols
+	2. Get Stock Symbols latest information
+	3. Add Stock Symbol to user's list
+	4. Delete Stock Symbol from user's list
+	5. Refresh Stock Symbol/Symbols information
+
+Personal Stock Portfolio needs internet connection so that Yahoo! Finance module can retrieve latest information about Stock Symbol.
