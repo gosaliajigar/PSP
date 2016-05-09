@@ -17,6 +17,8 @@ Personal Stock Portfolio uses file based persistence for user related data (user
 
 Usage:
 ------
+Open psp.py in IDLE and run psp.py by pressing F5.
+
 Read the available commands at the bottom of each screen for execution.
 
 Sign Up for your personal account so that you can preserve your favourite Stock Symbols and view them when you login with your credentials.
