@@ -82,36 +82,39 @@ Reference or Credits:
 ---------------------
 Stock Symbol files are downloaded from ftp://ftp.nasdaqtrader.com/symboldirectory/
 
+Directory Structure:
+---------------------
+![directorystructure](https://cloud.githubusercontent.com/assets/5839686/24687279/d10be316-196d-11e7-842e-34f717e11d4d.png)
+
 Screenshots:
 ------------
 
 | Screens | Screenshots |
 | -- | -- |
-| aboutScreenshot |  |
-| addSymbolCommandScreenshot |  |
-| addSymbolResultScreenshot |  |
-| adminDashboardScreenshot |  |
-| commandsScreenshot |  |
-| deleteSymbolByNameCommandScreenshot |  |
-| deleteSymbolByNameResultScreenshot |  |
-| deleteSymbolByNumberCommandScreenshot |  |
-| deleteSymbolByNumberResultScreenshot |  |
-| directoryStructure |  |
-| listAllSymbolsScreenshot |  |
-| listSymbolByNameCommandScreenshot |  |
-| listSymbolByNameResultScreenshot |  |
-| listSymbolByNumberCommandScreenshot |  |
-| listSymbolByNumberResultScreenshot |  |
-| loadFromBackupScreenshot |  |
-| loginScreenshot |  |
-| logoutCommandScreenshot |  |
-| refreshSymbolCommandScreenshot |  |
-| resetPasswordScreenshot |  |
-| signUpMaxPasswordAttemptsReachedScreenshot |  |
-| signUpScreenshot |  |
-| userDashboardScreenshot |  |
-| userSignInScreenshot |  |
-| viewSymbolCommandScreenshot |  |
-| viewSymbolResultScreenshot |  |
-| welcomeScreenshot |  |
+| aboutScreenshot | ![aboutscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687270/d0f27c5a-196d-11e7-9534-1cd362369335.png) |
+| addSymbolCommandScreenshot | ![addsymbolcommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687271/d0f6ff64-196d-11e7-8d66-81aad1640724.png) |
+| addSymbolResultScreenshot | ![addsymbolresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687272/d0f7cdfe-196d-11e7-99de-7a73b753f4d0.png) |
+| adminDashboardScreenshot | ![admindashboardscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687273/d0f893c4-196d-11e7-8309-933ff151a9b9.png) |
+| commandsScreenshot | ![commandsscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687274/d0f8cc36-196d-11e7-92e6-e6e22e754a2c.png) |
+| deleteSymbolByNameCommandScreenshot | ![deletesymbolbynamecommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687275/d0f939d2-196d-11e7-9f20-9e4ebc6b81cb.png) |
+| deleteSymbolByNameResultScreenshot | ![deletesymbolbynameresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687276/d1067412-196d-11e7-8df6-5a379807eff5.png) |
+| deleteSymbolByNumberCommandScreenshot | ![deletesymbolbynumbercommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687278/d10b5bbc-196d-11e7-880f-f4ec8b3e1e4a.png) |
+| deleteSymbolByNumberResultScreenshot | ![deletesymbolbynumberresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687277/d10a9ed4-196d-11e7-84f2-da647c3d612b.png) |
+| listAllSymbolsScreenshot | ![listallsymbolsscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687281/d1107e62-196d-11e7-8c25-b484624b5bfb.png) |
+| listSymbolByNameCommandScreenshot | ![listsymbolbynamecommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687280/d10cf1a2-196d-11e7-9b17-27ca8430bcd7.png) |
+| listSymbolByNameResultScreenshot | ![listsymbolbynameresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687282/d118e714-196d-11e7-99ed-bd2e8da7c8e2.png) |
+| listSymbolByNumberCommandScreenshot | ![listsymbolbynumbercommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687283/d11d1e7e-196d-11e7-94b1-fb335c30d9be.png) |
+| listSymbolByNumberResultScreenshot | ![listsymbolbynumberresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687284/d11eca44-196d-11e7-9868-7f1527fc9a21.png) |
+| loadFromBackupScreenshot | ![loadfrombackupscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687290/d13471fa-196d-11e7-9b86-215db58b5a75.png) |
+| loginScreenshot | ![loginscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687285/d11f2728-196d-11e7-89d4-55df2894b9a1.png) |
+| logoutCommandScreenshot | ![logoutcommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687286/d1243952-196d-11e7-985e-2b58fac31fe6.png) |
+| refreshSymbolCommandScreenshot | ![refreshsymbolcommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687287/d12ca2ea-196d-11e7-8a84-2b2b22583aa2.png) |
+| resetPasswordScreenshot | ![resetpasswordscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687288/d12fbe76-196d-11e7-9fe4-161b3c097019.png) |
+| signUpMaxPasswordAttemptsReachedScreenshot | ![signupmaxpasswordattemptsreachedscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687291/d134e5d6-196d-11e7-8441-27f10d0d15c0.png) |
+| signUpScreenshot | ![signupscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687289/d1320424-196d-11e7-923f-eb904a3cf293.png) |
+| userDashboardScreenshot | ![userdashboardscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687292/d137fb54-196d-11e7-8785-ddf27bfce10b.png) |
+| userSignInScreenshot | ![usersigninscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687296/d150a9d8-196d-11e7-9c23-dbcaa23ea7d0.png) |
+| viewSymbolCommandScreenshot | ![viewsymbolcommandscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687294/d14fb3de-196d-11e7-885e-d2d5628b3bcf.png) |
+| viewSymbolResultScreenshot | ![viewsymbolresultscreenshot](https://cloud.githubusercontent.com/assets/5839686/24687293/d14f64ce-196d-11e7-891e-558f6d3998b0.png) |
+| welcomeScreenshot | ![welcomescreenshot](https://cloud.githubusercontent.com/assets/5839686/24687295/d1507666-196d-11e7-98ce-5dae301662fd.png) |
 
