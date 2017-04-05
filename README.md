@@ -82,3 +82,36 @@ Reference or Credits:
 ---------------------
 Stock Symbol files are downloaded from ftp://ftp.nasdaqtrader.com/symboldirectory/
 
+Screenshots:
+------------
+
+| Screens | Screenshots |
+| -- | -- |
+| aboutScreenshot |  |
+| addSymbolCommandScreenshot |  |
+| addSymbolResultScreenshot |  |
+| adminDashboardScreenshot |  |
+| commandsScreenshot |  |
+| deleteSymbolByNameCommandScreenshot |  |
+| deleteSymbolByNameResultScreenshot |  |
+| deleteSymbolByNumberCommandScreenshot |  |
+| deleteSymbolByNumberResultScreenshot |  |
+| directoryStructure |  |
+| listAllSymbolsScreenshot |  |
+| listSymbolByNameCommandScreenshot |  |
+| listSymbolByNameResultScreenshot |  |
+| listSymbolByNumberCommandScreenshot |  |
+| listSymbolByNumberResultScreenshot |  |
+| loadFromBackupScreenshot |  |
+| loginScreenshot |  |
+| logoutCommandScreenshot |  |
+| refreshSymbolCommandScreenshot |  |
+| resetPasswordScreenshot |  |
+| signUpMaxPasswordAttemptsReachedScreenshot |  |
+| signUpScreenshot |  |
+| userDashboardScreenshot |  |
+| userSignInScreenshot |  |
+| viewSymbolCommandScreenshot |  |
+| viewSymbolResultScreenshot |  |
+| welcomeScreenshot |  |
+
